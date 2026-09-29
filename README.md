@@ -23,11 +23,15 @@ seaborn - statistical data visualization
 
 matplotlib - plotting and charting
 
+## Data Source
+
+Office on Drugs and Crime - Data Portal
+[Sexual Violence and Crime](https://data.unodc.org/datareport/violent-offences)
+
 ## Project Files
 * **README.md**  - project description and report
 * **Violence Crime and Sexual Violence.ipynb** - Python Notebook
 * **data_cts_violent_and_sexual_crime.xlsx** - excel file
-* **index.html** - html code file for GitHub viewing
 
 ## Method for Data Analysis
 
@@ -114,13 +118,13 @@ Followed the second in the bar chart, Serious assault in Brazil is 3,818,908, th
 
 ### Animation of Top 10 Countries over Years
 
-You can use the above html link to view the animated visualization of top 10 countries from 2016 to 2024, which changed across years. 
+You can use the Jupyter notebook to view the animated visualization of top 10 countries from 2016 to 2024, which changed across years. 
 
 <img width="1441" height="477" alt="image" src="https://github.com/user-attachments/assets/7b96a104-a6a5-42c3-937b-f1a3826dda2c" />
 
 ### Animation of Top 5 Categories with highest Total Victims over Years
 
-You can use the above html link to view the animated visualization of top 5 categories from 2016 to 2024, which changed across years.
+You can use the Jupyter Notebook to view the animated visualization of top 5 categories from 2016 to 2024, which changed across years.
 
 <img width="1421" height="478" alt="image" src="https://github.com/user-attachments/assets/d12fdc8e-d002-4462-9d30-e4426915db6f" />
 
