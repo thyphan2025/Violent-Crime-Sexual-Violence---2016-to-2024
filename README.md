@@ -59,7 +59,7 @@ As we can see, the Americas region leads the bar chart because of Latin America 
 <img width="470" height="288" alt="image" src="https://github.com/user-attachments/assets/277c1870-4294-42cb-b55d-7957fbddbfa3" />
 <img width="1312" height="670" alt="image" src="https://github.com/user-attachments/assets/48ee0b4d-ff5e-4003-b33b-e0303380ca9c" />
 
-According to Data UNODC - Metadata Information, Serious assault defines as intentional or reckless application of serious physical force on the body, which results in serious bodily injury. 
+According to [Data UNODC - Metadata Information](https://data.unodc.org/sites/dataportal.unodc.org/files/2026-07/metadata_violent_and_sexual_crime.pdf), Serious assault defines as intentional or reckless application of serious physical force on the body, which results in serious bodily injury. 
 Serious assault with total victims of 28,341,950, the category with the highest victims, is over 8 millions more than Robbery, 20,469,770, the second in the bar chart.
 Besides Robbery and Serious Assault, which are the first and the second in the bar chart, Sexual violence is 6,918,919 total victims, which is approximately three times less than the second category and four times less than the first category in the bar chart.
 
