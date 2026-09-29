@@ -39,7 +39,7 @@ Office on Drugs and Crime - Data Portal
 - Data cleaning and preprocessing were then performed using Pandas in Python, checking for null values and preparing data for exploratory analysis.
 - Univariate analysis - such as calculating total victims per region, subregion, and category.
 - Bivariate analysis - such as exploring total victims per category and per region and total victims per category and per country.
-- Univariate analysis - such as identifying top ten countries with highest victims, exploring top three countries with highest victims in detail with each category, 
+- Univariate analysis - such as identifying top ten countries with highest victims, exploring top three countries with highest victims.
 _ Bivariate analysis - such as animated visualization of top ten countries and top five categories with total victims changed over years.
 
  ## Results
