@@ -26,6 +26,7 @@ matplotlib - plotting and charting
 ## Project Files
 * **README.md**  - project description and report
 * **Violence Crime and Sexual Violence.ipynb** - Python Notebook
+* **data_cts_violent_and_sexual_crime.xlsx** - excel file
 * **index.html** - html code file for GitHub viewing
 
 ## Method for Data Analysis
